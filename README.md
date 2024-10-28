@@ -1,7 +1,9 @@
 Hello all, I a programmer and data engineer.
 
 📊 I love working with data, building pipelines, and analyzing information.
+
 ⚙️ Main tools: Python, SQL, and Apache Spark.
+
 🤖 Experimenting with machine learning and working on developing recommendation systems.
 
 What I'm passionate about:
