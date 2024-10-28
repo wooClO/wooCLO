@@ -8,3 +8,6 @@ Hello all, I a programmer and data engineer.
 
 What I'm passionate about:
 Big data and machine learning algorithms. I’m exploring NLP and computer vision to apply them in real-world projects.
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wooCLO&show_icons=true&theme=radical)
