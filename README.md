@@ -11,3 +11,4 @@ Big data and machine learning algorithms. I’m exploring NLP and computer visio
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wooCLO&show_icons=true&theme=radical)
+<img src="hello.svg" width="200" height="200" alt="Hello Animation"/>
